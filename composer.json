@@ -12,7 +12,9 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "shiyang/yii2-infinite-scroll": "*"
+        "shiyang/yii2-infinite-scroll": "*"，
+		"bower-asset/masonry" : "^3.2",
+		"bower-asset/imagesloaded" : "*"
     },
     "autoload": {
         "psr-4": {
